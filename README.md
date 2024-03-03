@@ -36,7 +36,7 @@ Welcome to My Own Bank! This is a simple banking system implemented in C++, allo
 
 ## Contributors:
 
-- Vikash (GitHub: @vikash)
+- Vikash (GitHub: vikash721)
 
 ## Note:
 
